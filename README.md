@@ -63,7 +63,7 @@ Visitor comments may be checked through an automated spam detection service.
 
 # License 📝
 
-Electron Executor is licensed under the MIT License. (You will need to add the MIT license text as a separate file named LICENSE in the repository)
+Electron Executor is licensed under the MIT License.
 
 
 *Copyright © 2024 Electron Executor. All rights reserved.*
